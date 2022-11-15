@@ -1,0 +1,30 @@
+Hello World!
+
+
+CAT
+BAT
+ARE NOT SAME
+
+
+*
+*   *
+*   *   *
+*   *
+*
+
+
+1   0   0   1
+IS A PALINDROME
+
+
+10
+100
+ARE NOT EQUAL
+
+
+250
+IS DIVISIBLE BY 5
+
+
+137
+IS NOT DIVISIBLE BY 2
